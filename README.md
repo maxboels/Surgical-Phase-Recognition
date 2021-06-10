@@ -1,4 +1,4 @@
-# Deep Learning for Surgical Data Science
+# AI for Surgical Data Science
 Collated a list of useful open access work related to surgical phase recognition.
 
 
