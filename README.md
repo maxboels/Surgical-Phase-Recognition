@@ -3,7 +3,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 
 
-- Specific to surgical phase recognition
+- Surgical phase recognition
 
 - LSTM and RNN
 
