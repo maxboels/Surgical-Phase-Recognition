@@ -22,7 +22,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 # LSTM and RNN
 
@@ -33,7 +33,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 
 # _Transformers
@@ -44,7 +44,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 ## _Others
 
@@ -54,7 +54,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 
 
