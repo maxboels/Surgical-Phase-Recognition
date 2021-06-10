@@ -11,7 +11,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 - Others
 
-
+![An overview of surgical data science evolution](images/SDS_nature.jpg)
 
 
 # Surgical phase recognition
