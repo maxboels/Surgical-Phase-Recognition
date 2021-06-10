@@ -36,7 +36,7 @@ Collated a list of useful open access work related to surgical phase recognition
 ## - 2019
 
 
-# _Transformers
+# Transformers
 
 ## 2021
 
@@ -46,7 +46,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## - 2019
 
-## _Others
+## Others
 
 ## 2021
 
