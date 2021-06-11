@@ -11,7 +11,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 - _Others_
 
-![An overview of surgical data science evolution](images/SDS_nature.jpg)
+![surgical light](images/surgical_lamp.jpg)
 
 
 # Surgical phase recognition
