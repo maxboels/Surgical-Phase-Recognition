@@ -34,7 +34,7 @@ Surgical data science for next-generation interventions, 2017, <https://www.rese
 
 Surgical data science: the new knowledge domain, 2017, <https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html>
 
-![surgical light](images/surgical_lamp_1.jpg)
+![surgical](images/neuron.jpg)
 
 # Surgical phase recognition
 
@@ -66,7 +66,7 @@ Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep
 Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks
 , 2018, <https://arxiv.org/abs/1805.08569>
 
-![surgical light](images/surgical_lamp_2.jpg)
+![surgical](images/circuit.jpg)
 
 # LSTM, VAE and RNN
 
@@ -88,7 +88,7 @@ Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https:
 
 LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604.pdf>
 
-![surgical light](images/surgical_lamp_3.jpg)
+![surgical](images/glass_purple.jpg)
 
 # Transformers and Attention based mechanism
 
@@ -110,7 +110,7 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
-![surgical light](images/surgical_lamp_4.jpg)
+![surgical](images/earth_blue.jpg)
 
 ## Others
 
@@ -122,6 +122,6 @@ Involution: Inverting the Inherence of Convolution for Visual Recognition, <http
 
 ## - 2020
 
-![surgical light](images/surgical_lamp_5.jpg)
+![surgical](images/ball.jpg)
 
 
