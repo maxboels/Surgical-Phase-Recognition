@@ -18,7 +18,8 @@ Collated a list of useful open access work related to surgical phase recognition
 
 ## 2021
 
-https://journals.lww.com/annalsofsurgery/Fulltext/2021/04000/Machine_Learning_for_Surgical_Phase_Recognition__A.11.aspx
+Machine Learning for Surgical Phase Recognition
+A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/04000/Machine_Learning_for_Surgical_Phase_Recognition__A.11.aspx>
 
 ## 2020
 
