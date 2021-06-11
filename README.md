@@ -1,4 +1,4 @@
-# Deep Learning for Surgical Data Science
+# AI for Surgical Data Science
 Collated a list of useful open access work related to surgical phase recognition.
 
 
@@ -11,7 +11,7 @@ Collated a list of useful open access work related to surgical phase recognition
 
 - _Others
 
-
+![An overview of surgical data science evolution](images/SDS_nature.jpg)
 
 
 # Surgical phase recognition
@@ -25,7 +25,7 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 # LSTM and RNN
 
@@ -36,20 +36,10 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2019
 
-## Before 2019
+## - 2019
 
 
-# _Transformers
-
-## 2021
-
-## 2020
-
-## 2019
-
-## Before 2019
-
-## _Others
+# Transformers
 
 ## 2021
 
@@ -57,7 +47,17 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2019
 
-## Before 2019
+## - 2019
+
+## Others
+
+## 2021
+
+## 2020
+
+## 2019
+
+## - 2019
 
 
 
