@@ -11,7 +11,7 @@ The following collection of content is divided into 5 parts:
 
 - _Transformers and Attention based mechanism_
 
-- _Others_
+- _Other Links_
 
 ![surgical light](images/surgical_lamp.jpg)
 
@@ -112,7 +112,7 @@ Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
 ![surgical](images/earth_blue.jpg)
 
-## Others
+## Other Links
 
 ## 2021
 
@@ -121,6 +121,10 @@ MLP-Mixer: An all-MLP Architecture for Vision, <https://arxiv.org/abs/2105.01601
 Involution: Inverting the Inherence of Convolution for Visual Recognition, <https://arxiv.org/abs/2103.06255>
 
 ## - 2020
+
+
+# Concluding Remarks
+
 
 ![surgical](images/ball.jpg)
 
