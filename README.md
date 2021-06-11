@@ -54,6 +54,8 @@ Towards Understanding Surgical Scenes Using Computer Vision - Bay Vision Virtual
 
 ## 2019
 
+Weakly Supervised Convolutional LSTM Approach for Tool Tracking in Laparoscopic Videos, <https://arxiv.org/abs/1812.01366>
+
 Real-Time Extraction of Important Surgical Phases in Cataract Surgery Videos, <https://www.nature.com/articles/s41598-019-53091-8>
 
 ## - 2019
@@ -78,29 +80,45 @@ Dynamical Variational Autoencoders: A Comprehensive Review, <https://arxiv.org/a
 
 ## - 2019
 
-Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https://www.youtube.com/watch?v=WCUNPb-5EYI>
+
 
 Illustrated Guide to LSTM’s and GRU’s: A step by step explanation, 2018, <https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>
+
+Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https://www.youtube.com/watch?v=WCUNPb-5EYI>
+
+LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604.pdf>
+
 
 # Transformers
 
 ## 2021
 
+Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
+
 ## 2020
+
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, <https://arxiv.org/abs/2010.11929>
+
+End-to-End Object Detection with Transformers, <https://arxiv.org/abs/2005.12872>
 
 ## 2019
 
 ## - 2019
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018, <https://arxiv.org/abs/1810.04805>
+
+Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
 ## Others
 
 ## 2021
 
-## 2020
+MLP-Mixer: An all-MLP Architecture for Vision, <https://arxiv.org/abs/2105.01601>
 
-## 2019
+Involution: Inverting the Inherence of Convolution for Visual Recognition, <https://arxiv.org/abs/2103.06255>
 
-## - 2019
+## - 2020
+
 
 
 
