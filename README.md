@@ -1,19 +1,19 @@
 # AI for Surgical Data Science
 Collated a list of useful open access work related to surgical phase recognition.
 
+The following collection of content is divided into 5 parts:
 
+- _Surgical Data Science_
 
 - _Surgical phase recognition_
 
-- _LSTM and RNN_
+- _LSTM, RNN and VAE_
 
-- _Transformers and Attention based Mechanism_
+- _Transformers and Attention based mechanism_
 
 - _Others_
 
 ![surgical light](images/surgical_lamp.jpg)
-
-
 
 # Surgical Data Science
 
@@ -26,7 +26,6 @@ IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg
 Surgical Data Science -- from Concepts to Clinical Translation
 , <https://arxiv.org/abs/2011.02284>
 
-
 ## 2019
 
 ## - 2019
@@ -34,6 +33,8 @@ Surgical Data Science -- from Concepts to Clinical Translation
 Surgical data science for next-generation interventions, 2017, <https://www.researchgate.net/profile/Germain-Forestier/publication/319651707_Surgical_data_science_for_next-generation_interventions/links/5f6df6d092851c14bc94c81a/Surgical-data-science-for-next-generation-interventions.pdf>
 
 Surgical data science: the new knowledge domain, 2017, <https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html>
+
+![surgical light](images/surgical_lamp_1.jpg)
 
 # Surgical phase recognition
 
@@ -65,8 +66,9 @@ Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep
 Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks
 , 2018, <https://arxiv.org/abs/1805.08569>
 
-# LSTM, VAE and RNN
+![surgical light](images/surgical_lamp_2.jpg)
 
+# LSTM, VAE and RNN
 
 ## 2021
 
@@ -80,16 +82,15 @@ Dynamical Variational Autoencoders: A Comprehensive Review, <https://arxiv.org/a
 
 ## - 2019
 
-
-
 Illustrated Guide to LSTM’s and GRU’s: A step by step explanation, 2018, <https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>
 
 Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https://www.youtube.com/watch?v=WCUNPb-5EYI>
 
 LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604.pdf>
 
+![surgical light](images/surgical_lamp_3.jpg)
 
-# Transformers
+# Transformers and Attention based mechanism
 
 ## 2021
 
@@ -109,6 +110,8 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
+![surgical light](images/surgical_lamp_4.jpg)
+
 ## Others
 
 ## 2021
@@ -119,6 +122,6 @@ Involution: Inverting the Inherence of Convolution for Visual Recognition, <http
 
 ## - 2020
 
-
+![surgical light](images/surgical_lamp_5.jpg)
 
 
