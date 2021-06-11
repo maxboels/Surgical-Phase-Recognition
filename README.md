@@ -19,20 +19,20 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
-IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
+- IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
 
 ## 2020
 
-Surgical Data Science -- from Concepts to Clinical Translation
+- Surgical Data Science -- from Concepts to Clinical Translation
 , <https://arxiv.org/abs/2011.02284>
 
 ## 2019
 
 ## - 2019
 
-Surgical data science for next-generation interventions, 2017, <https://www.researchgate.net/profile/Germain-Forestier/publication/319651707_Surgical_data_science_for_next-generation_interventions/links/5f6df6d092851c14bc94c81a/Surgical-data-science-for-next-generation-interventions.pdf>
+- Surgical data science for next-generation interventions, 2017, <https://www.researchgate.net/profile/Germain-Forestier/publication/319651707_Surgical_data_science_for_next-generation_interventions/links/5f6df6d092851c14bc94c81a/Surgical-data-science-for-next-generation-interventions.pdf>
 
-Surgical data science: the new knowledge domain, 2017, <https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html>
+- Surgical data science: the new knowledge domain, 2017, <https://www.degruyter.com/document/doi/10.1515/iss-2017-0004/html>
 
 ![surgical](images/neuron.jpg)
 
@@ -40,31 +40,44 @@ Surgical data science: the new knowledge domain, 2017, <https://www.degruyter.co
 
 ## 2021
 
-Machine Learning for Surgical Phase Recognition
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
+
+- SUrgical PRediction GAN for Events Anticipation, <https://arxiv.org/abs/2105.04642>
+
+- Machine Learning for Surgical Phase Recognition
 A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/04000/Machine_Learning_for_Surgical_Phase_Recognition__A.11.aspx>
 
-Video Transformer Network, <https://arxiv.org/abs/2102.00719>
+- Video Transformer Network, <https://arxiv.org/abs/2102.00719>
 
 ## 2020
 
-Assisted phase and step annotation for surgical videos, <https://www.researchgate.net/publication/339158015_Assisted_phase_and_step_annotation_for_surgical_videos>
+- TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks, <https://arxiv.org/abs/2003.10751>
 
-Impact of data on generalization of AI for surgical intelligence applications, <https://arxiv.org/abs/1806.00466>
+- Assisted phase and step annotation for surgical videos, <https://www.researchgate.net/publication/339158015_Assisted_phase_and_step_annotation_for_surgical_videos>
 
-Towards Understanding Surgical Scenes Using Computer Vision - Bay Vision Virtual Meetup, <https://www.youtube.com/watch?v=twy5ZG2VA_g>
+- Impact of data on generalization of AI for surgical intelligence applications, <https://arxiv.org/abs/1806.00466>
+
+- Aggregating Long-Term Context for Learning Laparoscopic and Robot-Assisted Surgical Workflows, <https://arxiv.org/abs/2009.00681>
+
+- Towards Understanding Surgical Scenes Using Computer Vision - Bay Vision Virtual Meetup, <https://www.youtube.com/watch?v=twy5ZG2VA_g>
 
 ## 2019
 
-Weakly Supervised Convolutional LSTM Approach for Tool Tracking in Laparoscopic Videos, <https://arxiv.org/abs/1812.01366>
+- Automated Surgical Activity Recognition with One Labeled Sequence, MICCAI 2019, https://arxiv.org/abs/1907.08825
 
-Real-Time Extraction of Important Surgical Phases in Cataract Surgery Videos, <https://www.nature.com/articles/s41598-019-53091-8>
+- Weakly Supervised Convolutional LSTM Approach for Tool Tracking in Laparoscopic Videos, <https://arxiv.org/abs/1812.01366>
 
-## - 2019
+- Real-Time Extraction of Important Surgical Phases in Cataract Surgery Videos, <https://www.nature.com/articles/s41598-019-53091-8>
 
-Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep Learning, MICCAI 2018, <https://arxiv.org/abs/1806.00466>
+## - 2018
 
-Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks
-, 2018, <https://arxiv.org/abs/1805.08569>
+- Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep Learning, MICCAI 2018, <https://arxiv.org/abs/1806.00466>
+
+- Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks, 2018, <https://arxiv.org/abs/1805.08569>
+
+- DeepPhase: Surgical Phase Recognition in CATARACTS Videos, <https://arxiv.org/abs/1807.10565>
+
+- Tool and Phase recognition using contextual CNN features, 2016, <https://arxiv.org/abs/1610.08854>
 
 ![surgical](images/circuit.jpg)
 
@@ -74,19 +87,19 @@ Less is More: Surgical Phase Recognition with Less Annotations through Self-Supe
 
 ## 2020
 
-A bio-inspired bistable recurrent cell allows for long-lasting memory, <https://arxiv.org/abs/2006.05252>
+- A bio-inspired bistable recurrent cell allows for long-lasting memory, <https://arxiv.org/abs/2006.05252>
 
-Dynamical Variational Autoencoders: A Comprehensive Review, <https://arxiv.org/abs/2008.12595>
+- Dynamical Variational Autoencoders: A Comprehensive Review, <https://arxiv.org/abs/2008.12595>
 
 ## 2019
 
 ## - 2019
 
-Illustrated Guide to LSTM’s and GRU’s: A step by step explanation, 2018, <https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>
+- Illustrated Guide to LSTM’s and GRU’s: A step by step explanation, 2018, <https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21>
 
-Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https://www.youtube.com/watch?v=WCUNPb-5EYI>
+- Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), 2017, <https://www.youtube.com/watch?v=WCUNPb-5EYI>
 
-LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604.pdf>
+- LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604.pdf>
 
 ![surgical](images/glass_purple.jpg)
 
@@ -94,21 +107,23 @@ LONG SHORT-TERM MEMORY, 1997, <https://www.bioinf.jku.at/publications/older/2604
 
 ## 2021
 
-Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
+- When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
+
+- Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
 
 ## 2020
 
-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, <https://arxiv.org/abs/2010.11929>
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, <https://arxiv.org/abs/2010.11929>
 
-End-to-End Object Detection with Transformers, <https://arxiv.org/abs/2005.12872>
+- End-to-End Object Detection with Transformers, <https://arxiv.org/abs/2005.12872>
 
 ## 2019
 
 ## - 2019
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018, <https://arxiv.org/abs/1810.04805>
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018, <https://arxiv.org/abs/1810.04805>
 
-Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
+- Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
 ![surgical](images/earth_blue.jpg)
 
@@ -116,9 +131,9 @@ Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
 ## 2021
 
-MLP-Mixer: An all-MLP Architecture for Vision, <https://arxiv.org/abs/2105.01601>
+- MLP-Mixer: An all-MLP Architecture for Vision, <https://arxiv.org/abs/2105.01601>
 
-Involution: Inverting the Inherence of Convolution for Visual Recognition, <https://arxiv.org/abs/2103.06255>
+- Involution: Inverting the Inherence of Convolution for Visual Recognition, <https://arxiv.org/abs/2103.06255>
 
 ## - 2020
 
