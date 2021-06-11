@@ -3,13 +3,13 @@ Collated a list of useful open access work related to surgical phase recognition
 
 
 
-- Surgical phase recognition
+- _Surgical phase recognition
 
-- LSTM and RNN
+- _LSTM and RNN
 
-- Transformers and Attention based Mechanism
+- _Transformers and Attention based Mechanism
 
-- Others
+- _Others
 
 
 
@@ -17,6 +17,8 @@ Collated a list of useful open access work related to surgical phase recognition
 # Surgical phase recognition
 
 ## 2021
+
+https://journals.lww.com/annalsofsurgery/Fulltext/2021/04000/Machine_Learning_for_Surgical_Phase_Recognition__A.11.aspx
 
 ## 2020
 
