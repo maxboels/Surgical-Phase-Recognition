@@ -1,9 +1,9 @@
-# AI for Surgical Data Science
+# AI for Surgery
 Collated a list of useful open access work related to surgical phase recognition.
 
 The following collection of content is divided into 5 parts:
 
-- _Surgical Data Science_
+- _Surgical Artificial Intelligence_
 
 - _Surgical phase recognition_
 
@@ -15,18 +15,21 @@ The following collection of content is divided into 5 parts:
 
 ![surgical light](images/surgical_lamp.jpg)
 
-# Surgical Data Science
+# Surgical Artificial Intelligence
 
 ## 2021
+
+- What is Artificial Intelligence Surgery?, <https://aisjournal.net/article/view/3890>
 
 - IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
 
 ## 2020
 
-- Surgical Data Science -- from Concepts to Clinical Translation
-, <https://arxiv.org/abs/2011.02284>
+- Surgical Data Science -- from Concepts to Clinical Translation, <https://arxiv.org/abs/2011.02284>
 
 ## 2019
+
+- Artificial Intelligence in Surgery: Promises and Perils, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995666/>
 
 ## - 2019
 
