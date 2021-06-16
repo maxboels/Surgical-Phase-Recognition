@@ -120,6 +120,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2021
 
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
+
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
 
 - Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
