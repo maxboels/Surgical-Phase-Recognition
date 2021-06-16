@@ -17,7 +17,9 @@ The following collection of content is divided into 5 parts:
 
 # Surgical Artificial Intelligence
 
-![surgical AI](paper review/paper review surgical artificial intelligence.docx)
+![surgical AI](paper-review/paper review surgical artificial intelligence.docx)
+
+[Contribution guidelines for this project](docs/surgical-ai.md)
 
 ## 2021
 
