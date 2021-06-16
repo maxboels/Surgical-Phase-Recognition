@@ -90,7 +90,7 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 # LSTM, VAE and RNN
 
-[Papers review](docs/review-LTSM.md)
+[Papers review](docs/review-LSTM.md)
 
 ## 2021
 
