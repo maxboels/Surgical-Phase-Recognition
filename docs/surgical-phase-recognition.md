@@ -1,5 +1,4 @@
 
-
 1. OperA: Attention-Regularized Transformers for Surgical Phase Recognition, TU Munchen (2021)
 
 Methodology:
