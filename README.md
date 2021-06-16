@@ -17,6 +17,8 @@ The following collection of content is divided into 5 parts:
 
 # Surgical Artificial Intelligence
 
+![surgical AI](paper review/paper review surgical artificial intelligence.docx)
+
 ## 2021
 
 - What is Artificial Intelligence Surgery?, <https://aisjournal.net/article/view/3890>
@@ -87,6 +89,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 # LSTM, VAE and RNN
 
 ## 2021
+
+- Transfer Learning of Deep Spatiotemporal Networks to Model Arbitrarily Long Videos of Seizures, <https://scholar.google.co.uk/citations?hl=en&user=Gc2eg3kAAAAJ&view_op=list_works&sortby=pubdate>
 
 ## 2020
 
