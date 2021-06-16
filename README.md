@@ -17,9 +17,7 @@ The following collection of content is divided into 5 parts:
 
 # Surgical Artificial Intelligence
 
-![surgical AI](paper-review/paper review surgical artificial intelligence.docx)
-
-[Contribution guidelines for this project](docs/surgical-ai.md)
+[Papers review](docs/review-surgical-ai.md)
 
 ## 2021
 
@@ -44,6 +42,8 @@ The following collection of content is divided into 5 parts:
 ![surgical](images/neuron.jpg)
 
 # Surgical phase recognition
+
+[Papers review](docs/review-surgical-phase-recognition.md)
 
 ## 2021
 
@@ -90,6 +90,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 # LSTM, VAE and RNN
 
+[Papers review](docs/review-LTSM.md)
+
 ## 2021
 
 - Transfer Learning of Deep Spatiotemporal Networks to Model Arbitrarily Long Videos of Seizures, <https://scholar.google.co.uk/citations?hl=en&user=Gc2eg3kAAAAJ&view_op=list_works&sortby=pubdate>
@@ -114,6 +116,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 # Transformers and Attention based mechanism
 
+[Papers review](docs/review-transformers.md)
+
 ## 2021
 
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
@@ -137,6 +141,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 ![surgical](images/earth_blue.jpg)
 
 ## Other Links
+
+[Papers review](docs/review-other-techniques.md)
 
 ## 2021
 
