@@ -49,7 +49,9 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
--Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, MICCAI2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
+- Gesture Recognition in Robotic Surgery: A Review, UCL, <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336292>
+
+- Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, MICCAI2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
 
 - Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures, MICCAI2021, <https://arxiv.org/abs/2102.12218>
 
@@ -63,6 +65,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 - Video Transformer Network, <https://arxiv.org/abs/2102.00719>
 
 ## 2020
+
+- Real-time automatic surgical phase recognition in laparoscopic sigmoidectomy using the convolutional neural network-based deep learning approach, <https://link.springer.com/article/10.1007%2Fs00464-019-07281-0>
 
 - TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks, <https://arxiv.org/abs/2003.10751>
 
@@ -83,6 +87,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 - Real-Time Extraction of Important Surgical Phases in Cataract Surgery Videos, <https://www.nature.com/articles/s41598-019-53091-8>
 
 ## - 2018
+
+- “Deep-Onto” network for surgical workflow and context recognition, <https://link.springer.com/article/10.1007%2Fs11548-018-1882-8>
 
 - Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep Learning, MICCAI 2018, <https://arxiv.org/abs/1806.00466>
 
