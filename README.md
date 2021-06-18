@@ -80,6 +80,12 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2019
 
+- Learning from a tiny dataset of manual annotations: a teacher/student approach for surgical phase recognition, IPCAI 2019, <https://arxiv.org/abs/1812.00033>
+
+- Multi-Task Recurrent Convolutional Network with Correlation Loss for Surgical Video Analysis, <https://arxiv.org/abs/1907.06099>
+
+- Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video, MICCAI 2019, <https://arxiv.org/abs/1907.11454>
+
 - Automated Surgical Activity Recognition with One Labeled Sequence, MICCAI 2019, https://arxiv.org/abs/1907.08825
 
 - Weakly Supervised Convolutional LSTM Approach for Tool Tracking in Laparoscopic Videos, <https://arxiv.org/abs/1812.01366>
@@ -88,15 +94,21 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## - 2018
 
+- SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network, <https://ieeexplore.ieee.org/document/8240734>
+
 - “Deep-Onto” network for surgical workflow and context recognition, <https://link.springer.com/article/10.1007%2Fs11548-018-1882-8>
 
 - Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep Learning, MICCAI 2018, <https://arxiv.org/abs/1806.00466>
 
 - Less is More: Surgical Phase Recognition with Less Annotations through Self-Supervised Pre-training of CNN-LSTM Networks, 2018, <https://arxiv.org/abs/1805.08569>
 
-- DeepPhase: Surgical Phase Recognition in CATARACTS Videos, <https://arxiv.org/abs/1807.10565>
+- DeepPhase: Surgical Phase Recognition in CATARACTS Videos, MICCAI 2018, <https://arxiv.org/abs/1807.10565>
 
 - Tool and Phase recognition using contextual CNN features, 2016, <https://arxiv.org/abs/1610.08854>
+
+- LapOntoSPM: an ontology for laparoscopic surgeries and its application to surgical phase recognition, <https://link.springer.com/article/10.1007/s11548-015-1222-1>
+
+-  Surgical gesture classification from video and kinematic data, 2013, <https://www.sciencedirect.com/science/article/abs/pii/S1361841513000522?via%3Dihub>
 
 ![surgical](images/circuit.jpg)
 
