@@ -21,6 +21,8 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
+- Cross-modal self-supervised representation learning for gesture and skill recognition in robotic surgery, MICCAI2021, <https://link.springer.com/article/10.1007/s11548-021-02343-y>
+
 - What is Artificial Intelligence Surgery?, <https://aisjournal.net/article/view/3890>
 
 - IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
@@ -46,6 +48,10 @@ The following collection of content is divided into 5 parts:
 [Papers review](docs/review-surgical-phase-recognition.md)
 
 ## 2021
+
+-Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, MICCAI2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
+
+- Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures, MICCAI2021, <https://arxiv.org/abs/2102.12218>
 
 - OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
 
