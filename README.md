@@ -68,7 +68,7 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 - Real-time automatic surgical phase recognition in laparoscopic sigmoidectomy using the convolutional neural network-based deep learning approach, <https://link.springer.com/article/10.1007%2Fs00464-019-07281-0>
 
-- TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks, <https://arxiv.org/abs/2003.10751>
+- TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks, MICCAI 2020, <https://arxiv.org/abs/2003.10751>
 
 - Assisted phase and step annotation for surgical videos, <https://www.researchgate.net/publication/339158015_Assisted_phase_and_step_annotation_for_surgical_videos>
 
@@ -79,6 +79,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 - Towards Understanding Surgical Scenes Using Computer Vision - Bay Vision Virtual Meetup, <https://www.youtube.com/watch?v=twy5ZG2VA_g>
 
 ## 2019
+
+- MS-TCN: Multi-stage temporal convolutional network for action segmentation, CVPR 2019, <https://arxiv.org/abs/1903.01945>
 
 - Learning from a tiny dataset of manual annotations: a teacher/student approach for surgical phase recognition, IPCAI 2019, <https://arxiv.org/abs/1812.00033>
 
