@@ -21,6 +21,8 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
+- Gesture Recognition in Robotic Surgery: A Review, UCL, <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336292>
+
 - Cross-modal self-supervised representation learning for gesture and skill recognition in robotic surgery, MICCAI2021, <https://link.springer.com/article/10.1007/s11548-021-02343-y>
 
 - What is Artificial Intelligence Surgery?, <https://aisjournal.net/article/view/3890>
@@ -49,8 +51,6 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
-- Gesture Recognition in Robotic Surgery: A Review, UCL, <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336292>
-
 - Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, MICCAI2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
 
 - Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures, MICCAI2021, <https://arxiv.org/abs/2102.12218>
@@ -61,8 +61,6 @@ The following collection of content is divided into 5 parts:
 
 - Machine Learning for Surgical Phase Recognition
 A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/04000/Machine_Learning_for_Surgical_Phase_Recognition__A.11.aspx>
-
-- Video Transformer Network, <https://arxiv.org/abs/2102.00719>
 
 ## 2020
 
@@ -147,6 +145,10 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 ## 2021
 
 - OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
+
+- Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer, <https://arxiv.org/abs/2103.09712>
+
+- Video Transformer Network, <https://arxiv.org/abs/2102.00719>
 
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
 
