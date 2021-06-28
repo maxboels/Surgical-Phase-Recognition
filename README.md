@@ -51,11 +51,13 @@ The following collection of content is divided into 5 parts:
 
 ## 2021
 
-- Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, MICCAI2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
+- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, MICCAI 2021, <https://arxiv.org/abs/2103.03873>
 
-- Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures, MICCAI2021, <https://arxiv.org/abs/2102.12218>
+- Aggregating Long-Term Context for Learning Laparoscopic and Robot-Assisted Surgical Workflows, <https://arxiv.org/abs/2009.00681>
 
-- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
+- Against spatial–temporal discrepancy: contrastive learning-based network for surgical workflow recognition, IPCAI 2021, <https://link.springer.com/article/10.1007%2Fs11548-021-02382-5>
+
+- Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures, IPCAI 2021, <https://arxiv.org/abs/2102.12218>
 
 - SUrgical PRediction GAN for Events Anticipation, <https://arxiv.org/abs/2105.04642>
 
@@ -105,6 +107,10 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 - DeepPhase: Surgical Phase Recognition in CATARACTS Videos, MICCAI 2018, <https://arxiv.org/abs/1807.10565>
 
 - Tool and Phase recognition using contextual CNN features, 2016, <https://arxiv.org/abs/1610.08854>
+
+- EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos, <https://arxiv.org/abs/1602.03012>
+
+- Temporal Convolutional Networks: A Unified Approach to Action Segmentation, ECCV 2016, <https://arxiv.org/abs/1608.08242>
 
 - LapOntoSPM: an ontology for laparoscopic surgeries and its application to surgical phase recognition, <https://link.springer.com/article/10.1007/s11548-015-1222-1>
 
