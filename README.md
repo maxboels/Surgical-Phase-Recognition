@@ -152,6 +152,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2021
 
+- Learning Transferable Visual Models From Natural Language Supervision, OpenAI 2021 <https://arxiv.org/abs/2103.00020>
+
 - Perceiver: General Perception with Iterative Attention, DeepMind, ICML 2021, <https://arxiv.org/abs/2103.03206>
 
 - Early Convolutions Help Transformers See Better, FAIR, <https://arxiv.org/abs/2106.14881>
