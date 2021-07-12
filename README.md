@@ -158,11 +158,11 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 - Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer, <https://arxiv.org/abs/2103.09712>
 
-- Video Transformer Network, <https://arxiv.org/abs/2102.00719>
+- Video Transformer Network, Theator, <https://arxiv.org/abs/2102.00719>
 
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
 
-- DINO: Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
+- DINO: Emerging Properties in Self-Supervised Vision Transformers, FAIR, <https://arxiv.org/abs/2104.14294>
 
 ## 2020
 
