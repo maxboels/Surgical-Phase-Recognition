@@ -152,7 +152,9 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## 2021
 
-- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, <https://arxiv.org/abs/2103.03873>
+- Perceiver: General Perception with Iterative Attention, DeepMind, ICML 2021, <https://arxiv.org/abs/2103.03206>
+
+- Early Convolutions Help Transformers See Better, FAIR, <https://arxiv.org/abs/2106.14881>
 
 - Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer, <https://arxiv.org/abs/2103.09712>
 
@@ -160,11 +162,11 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 - When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, <https://arxiv.org/abs/2106.01548>
 
-- Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
+- DINO: Emerging Properties in Self-Supervised Vision Transformers, <https://arxiv.org/abs/2104.14294>
 
 ## 2020
 
-- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, <https://arxiv.org/abs/2010.11929>
+- ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, <https://arxiv.org/abs/2010.11929>
 
 - End-to-End Object Detection with Transformers, <https://arxiv.org/abs/2005.12872>
 
@@ -174,7 +176,7 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018, <https://arxiv.org/abs/1810.04805>
 
-- Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
+- Transformer: Attention Is All You Need, 2017, <https://arxiv.org/abs/1706.03762>
 
 ![surgical](images/earth_blue.jpg)
 
@@ -185,7 +187,6 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 - SEER: Self-supervised Pretraining of Visual Features in the Wild, Goyal, Caron, Misra, <https://arxiv.org/abs/2103.01988>
 
 - Barlow Twins: Self-Supervised Learning via Redundancy Reduction, Zbontar, LeCun, ICML 2021, <https://arxiv.org/abs/2103.03230>
-
 
 ## 2020
 
