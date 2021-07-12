@@ -120,7 +120,7 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ![surgical](images/circuit.jpg)
 
-# LSTM, VAE and RNN
+# RNNs
 
 [Papers review](docs/review-LSTM.md)
 
@@ -178,22 +178,26 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ![surgical](images/earth_blue.jpg)
 
-## Self-Supervised Learning
+## Self-Supervised and Unsupervised Learning
 
 ## 2021
+
+- SEER: Self-supervised Pretraining of Visual Features in the Wild, Goyal, Caron, Misra, <https://arxiv.org/abs/2103.01988>
 
 - Barlow Twins: Self-Supervised Learning via Redundancy Reduction, Zbontar, LeCun, ICML 2021, <https://arxiv.org/abs/2103.03230>
 
 
 ## 2020
 
-- SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments, Caron, Misra <https://arxiv.org/abs/2006.09882>
+- SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments, Caron, Misra, NIPS 2020, <https://arxiv.org/abs/2006.09882>
 
 - Improved Baselines with Momentum Contrastive Learning, Chen, Fan, <https://arxiv.org/abs/2003.04297>
 
-- A Simple Framework for Contrastive Learning, Chen, Hinton, ICML 2020, <https://arxiv.org/abs/2002.05709>
+- SimCLR: A Simple Framework for Contrastive Learning, Chen, Hinton, ICML 2020, <https://arxiv.org/abs/2002.05709>
 
-[Papers review](docs/review-other-techniques.md)
+- MoCo: Momentum Contrast for Unsupervised Visual Representation Learning, CVPR 2020, <https://arxiv.org/abs/1911.05722>
+
+[Papers review]()
 
 ## Other Links
 
