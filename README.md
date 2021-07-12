@@ -1,7 +1,7 @@
 # AI for Surgery
 Collated a list of useful open access work related to surgical phase recognition.
 
-The following collection of content is divided into 5 parts:
+The following collection of content is divided into 6 parts:
 
 - _Surgical Artificial Intelligence_
 
@@ -10,6 +10,8 @@ The following collection of content is divided into 5 parts:
 - _LSTM, RNN and VAE_
 
 - _Transformers and Attention based mechanism_
+
+- _Self-Supervised Learning_
 
 - _Other Links_
 
@@ -176,9 +178,24 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ![surgical](images/earth_blue.jpg)
 
-## Other Links
+## Self-Supervised Learning
+
+## 2021
+
+- Barlow Twins: Self-Supervised Learning via Redundancy Reduction, Zbontar, LeCun, ICML 2021, <https://arxiv.org/abs/2103.03230>
+
+
+## 2020
+
+- SwAV: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments, Caron, Misra <https://arxiv.org/abs/2006.09882>
+
+- Improved Baselines with Momentum Contrastive Learning, Chen, Fan, <https://arxiv.org/abs/2003.04297>
+
+- A Simple Framework for Contrastive Learning, Chen, Hinton, ICML 2020, <https://arxiv.org/abs/2002.05709>
 
 [Papers review](docs/review-other-techniques.md)
+
+## Other Links
 
 ## 2021
 
