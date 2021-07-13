@@ -98,6 +98,8 @@ A Systematic Review, <https://journals.lww.com/annalsofsurgery/Fulltext/2021/040
 
 ## - 2018
 
+- Temporal coherence-based self-supervised learning for laparoscopic workflow analysis, Funke, Speidel, Bodenstedt, MICCAI 2018 <https://arxiv.org/abs/1806.06811>
+
 - SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network, <https://ieeexplore.ieee.org/document/8240734>
 
 - “Deep-Onto” network for surgical workflow and context recognition, <https://link.springer.com/article/10.1007%2Fs11548-018-1882-8>
