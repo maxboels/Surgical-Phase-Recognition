@@ -32,11 +32,12 @@ The following collection of content is divided into 6 parts:
 - **What is Artificial Intelligence Surgery?**, [[Paper]](https://aisjournal.net/article/view/3890)
   - Andrew A. Gumbs , Silvana Perretta , Bernard d’Allemagne , Elie Chouillard 
 
-- IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
+- IRCAD online course - Artificial intelligence (AI) and surgery, [[Paper]](https://websurg.com/en/doi/oc01en6290a/)
 
 ## 2020
 
-- Surgical Data Science -- from Concepts to Clinical Translation, <https://arxiv.org/abs/2011.02284>
+- **Surgical Data Science -- from Concepts to Clinical Translation**, [[Paper]](https://arxiv.org/abs/2011.02284)
+  - Lena Maier-Hein, Matthias Eisenmann, Duygu Sarikaya, Keno März, Toby Collins
 
 ## 2019
 
