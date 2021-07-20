@@ -57,7 +57,8 @@ The following collection of content is divided into 6 parts:
 
 ## 2021
 
-- OperA: Attention-Regularized Transformers for Surgical Phase Recognition, MICCAI 2021, <https://arxiv.org/abs/2103.03873>
+- **OperA: Attention-Regularized Transformers for Surgical Phase Recognition, MICCAI 2021**, [[Paper]](https://arxiv.org/abs/2103.03873)
+  - Tobias Czempiel, Magdalini Paschali
 
 - Aggregating Long-Term Context for Learning Laparoscopic and Robot-Assisted Surgical Workflows, <https://arxiv.org/abs/2009.00681>
 
