@@ -23,11 +23,17 @@ The following collection of content is divided into 6 parts:
 
 ## 2021
 
-- Gesture Recognition in Robotic Surgery: A Review, UCL, <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336292>
+- **Gesture Recognition in Robotic Surgery: A Review**
+  - Beatrice van Amsterdam, Matthew J. Clarkson, Danail Stoyanov
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9336292)
 
-- Cross-modal self-supervised representation learning for gesture and skill recognition in robotic surgery, MICCAI2021, <https://link.springer.com/article/10.1007/s11548-021-02343-y>
+- **Cross-modal self-supervised representation learning for gesture and skill recognition in robotic surgery, MICCAI 2021**
+  - Jie Ying Wu, Aniruddha Tamhane, Peter Kazanzides & Mathias Unberath 
+  - [[Paper]](https://link.springer.com/article/10.1007/s11548-021-02343-y)
 
-- What is Artificial Intelligence Surgery?, <https://aisjournal.net/article/view/3890>
+- **What is Artificial Intelligence Surgery?**
+  - Andrew A. Gumbs , Silvana Perretta , Bernard d’Allemagne , Elie Chouillard 
+  - [[Paper]](https://aisjournal.net/article/view/3890)
 
 - IRCAD online course - Artificial intelligence (AI) and surgery, <https://websurg.com/en/doi/oc01en6290a/>
 
