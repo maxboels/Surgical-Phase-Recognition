@@ -57,6 +57,9 @@ The following collection of content is divided into 6 parts:
 
 ## 2021
 
+- **Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer, MICCAI 2021**, [[Paper]](https://arxiv.org/abs/2103.09712)
+  - Xiaojie Gao, Yueming Jin
+
 - **OperA: Attention-Regularized Transformers for Surgical Phase Recognition, MICCAI 2021**, [[Paper]](https://arxiv.org/abs/2103.03873)
   - Tobias Czempiel, Magdalini Paschali
 
